@@ -1,4 +1,4 @@
-require './student.rb'
+require "./student.rb"
 
 class ChattyStudent < Student
   
