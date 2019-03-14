@@ -8,7 +8,8 @@ class ChattyStudent < Student
   
   def raise_hand
     super
-        puts "\nPick me!\n"
+        puts 
+       expected block to output "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\n" to stdout, but output "Pick me!\n\nPick me!\n\nPick me!\n\nPick me!\n\nPick me!\n\nPick me!\n\nPick me!\n\nPick me!\n\nPick me!\n\nPick me!\n\nPick me!\n"
   end
   
 end
