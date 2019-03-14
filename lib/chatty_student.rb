@@ -1,5 +1,5 @@
 require './student.rb'
 
-class ChattyStudent 
+class ChattyStudent < Student
   
 end
